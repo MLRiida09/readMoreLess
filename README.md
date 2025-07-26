@@ -153,3 +153,21 @@ This project is open source and available under the [MIT License](https://openso
 ### 🌟 Star this project if you found it helpful!
 
 *Feel free to contribute, report issues, or suggest improvements.*
+
+
+# Read More / Read Less Toggle
+
+A simple and clean project that implements a "Read More / Read Less" toggle using HTML, CSS, and JavaScript.
+
+## 💡 Description:
+This project allows users to expand or collapse text content with a smooth toggle effect, making long paragraphs more user-friendly and organized.
+
+
+
+## 🔗 Live Demo (GitHub Pages):
+[View the Project Live](https://mlriida09.github.io/readMoreLess/)
+
+## 📁 Repository Link:
+[View the Code on GitHub](https://github.com/MLRiida09/readMoreLess)
+
+
